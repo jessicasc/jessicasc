@@ -11,9 +11,9 @@ I'm an intern at TecBan living in São Paulo, Brazil
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) 
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart) <br>
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter) 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) 
 
