@@ -4,7 +4,7 @@
 
 I'm an intern at TecBan living in São Paulo, Brazil 
 
-- Now I'm specially learning about Flutter and discovering this new world in mobile development
+- Now I'm especially learning about Flutter and discovering this new world in mobile development
 
 **Techs:**<br>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
