@@ -7,7 +7,7 @@ I'm an intern at TecBan living in São Paulo, Brazil
 - Now I'm specially learning about Flutter and discovering this new world in mobile development
 
 **Techs:** <br>
-`.html` `.css` `.js` `.dart` `.java`
+`.html` `.css` `.js` `.dart` `.java` <br>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) &nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter) &nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) &nbsp;
