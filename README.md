@@ -9,8 +9,8 @@ I'm an intern at TecBan living in São Paulo, Brazil
 **Techs:** <br>
 `.html` `.css` `.js` `.dart` `.java`
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) &nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter) &nbsp;
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) &nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) &nbsp;
 
 **Other accounts:** <br>
