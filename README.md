@@ -7,11 +7,11 @@ I'm an intern at TecBan linving in São Paulo, Brazil
 - Now I'm specially learning about Flutter and discovering this new world in mobile development
 
 **Techs:** <br>
-`.html` `.css` `.js` `.dart` `.java` <br><br>
+`.html` `.css` `.js` `.dart` `.java` <br>&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 **Other accounts:** <br>
 [![Linkedin Badge](https://img.shields.io/badge/-jessicasoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicasoarescorreia/)](https://www.linkedin.com/in/jessicasoarescorreia/) 
