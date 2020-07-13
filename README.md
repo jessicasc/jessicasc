@@ -10,6 +10,13 @@ I'm an intern at TecBan living in São Paulo, Brazil
 `.html` `.css` `.js` `.dart` `.java` Bootstrap Flutter Git MySQL 
 
 **Other accounts:** <br>
-[![Linkedin Badge](https://img.shields.io/badge/-jessicasoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicasoarescorreia/)](https://www.linkedin.com/in/jessicasoarescorreia/) 
-[![Twitter Badge](https://img.shields.io/badge/-SulthanNK-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SulthanNK)](https://twitter.com/SulthanNK)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:luiz7401@gmail.com)
+
+<a href="https://www.linkedin.com/in/jessicasoarescorreia/">
+    <img align="left" alt="Jessica Soares | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+ </a>
+ <a href="https://www.instagram.com/jesoaresc/">
+    <img align="left" alt="Jessica Soares | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+ </a>
+ <a href="mailto:correia.jessicasoares@gmail.com">
+    <img align="left" alt="Jessica Soares | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+ </a>
