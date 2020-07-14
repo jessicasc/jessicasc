@@ -20,10 +20,10 @@ I'm an intern at TecBan living in São Paulo, Brazil
 **Other accounts:** <br>
 <a href="https://www.linkedin.com/in/jessicasoarescorreia/">
     <img alt="Jessica Soares | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
- </a>
+ </a> &nbsp;
  <a href="https://www.instagram.com/jesoaresc/">
     <img alt="Jessica Soares | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
- </a>
+ </a> &nbsp;
  <a href="mailto:correia.jessicasoares@gmail.com">
     <img alt="Jessica Soares | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
  </a>
