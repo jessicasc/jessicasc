@@ -1,6 +1,6 @@
 ## 👩🏽‍💻 Jéssica Soares 
 
-### Hello World 👋
+### Hello world 👋
 
 I'm an intern at TecBan living in São Paulo, Brazil 
 
@@ -19,11 +19,11 @@ I'm an intern at TecBan living in São Paulo, Brazil
 
 **Other accounts:** <br>
 <a href="https://www.linkedin.com/in/jessicasoarescorreia/">
-    <img align="left" alt="Jessica Soares | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img alt="Jessica Soares | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
  </a>
  <a href="https://www.instagram.com/jesoaresc/">
-    <img align="left" alt="Jessica Soares | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+    <img alt="Jessica Soares | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
  </a>
  <a href="mailto:correia.jessicasoares@gmail.com">
-    <img align="left" alt="Jessica Soares | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img alt="Jessica Soares | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
  </a>
