@@ -2,7 +2,7 @@
 
 ### Hello world 👋
 
-I'm an intern at TecBan living in São Paulo, Brazil 
+I'm an analyst at TecBan living in São Paulo, Brazil 
 
 - Now I'm especially learning about Flutter and discovering this new world in mobile development
 
