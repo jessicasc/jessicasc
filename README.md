@@ -15,7 +15,7 @@ I'm working and improving my skills in data analytics.
 **Contacts:** <br>
 <a href="https://www.linkedin.com/in/jessicasoarescorreia/">
     <img alt="Jessica Soares | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
- </a> <br>
+ </a>     
  <a href="mailto:correia.jessicasoares@gmail.com">
     <img alt="Jessica Soares | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
  </a>
