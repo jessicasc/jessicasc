@@ -6,14 +6,14 @@ I'm an analyst living in São Paulo, Brazil. <br>
 I'm working and improving my skills in data analytics. <br>
 
 **Techs:**<br>
+![PowerBI](https://img.shields.io/badge/-powerbi-black?style=flat-square&logo=powerbi)
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
-![PowerBI](https://img.shields.io/badge/-powerbi-black?style=flat-square&logo=powerbi)
-<br><br>
-**Stats:**
+
+<br>
 <div>
 <a href="https://github.com/jessicasc">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasc&layout=compact&langs_count=7&theme=dracula"/>
