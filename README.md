@@ -3,13 +3,14 @@
 ### Hello world 👋
 
 I'm an analyst at TecBan living in São Paulo, Brazil <br>
-I specialized myself in data analytics
+I'm working and improving my skills in data analytics
 
 **Techs:**<br>
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) 
 ![PowerBI](https://img.shields.io/badge/-powerbi-black?style=flat-square&logo=powerbi)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![AWS](https://img.shields.io/badge/-aws-black?style=flat-square&logo=aws) 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
 
 **Other accounts:** <br>
