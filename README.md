@@ -12,7 +12,7 @@ I'm working and improving my skills in data analytics. <br>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
 ![PowerBI](https://img.shields.io/badge/-powerbi-black?style=flat-square&logo=powerbi)
-<br>
+<br><br>
 **Stats:**
 <div>
 <a href="https://github.com/jessicasc">
