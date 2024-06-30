@@ -1,9 +1,8 @@
-## 👩🏽‍💻 Jéssica Soares 
+## Jéssica Soares 
 
 ### Hello world 👋
 
-I'm an analyst living in São Paulo, Brazil. <br>
-I'm working and improving my skills in data analytics. <br>
+I'm a data analyst living in São Paulo, Brazil. <br>
 
 **Techs:**<br>
 ![PowerBI](https://img.shields.io/badge/-powerbi-black?style=flat-square&logo=powerbi)
